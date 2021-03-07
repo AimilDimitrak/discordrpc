@@ -1,0 +1,15 @@
+{
+    "name": "ADK2618Presence",
+    "description": "The Epic Presence only for ADK2618",
+    "repository": "",
+    "keywords": ["presence", "discord", "epic","richpresence","discordrichpresence"],
+    "image": "heroku/nodejs",
+    "buildpacks": [
+      {
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+      },
+      {
+        "url": "heroku/nodejs"
+      }
+    ]
+  }
