@@ -1,7 +1,9 @@
 # discordrpc - Get Custom Discord Presence with buttons!
+## Note
+You can also check the wiki page with the same steps [here](https://github.com/AimilDimitrak/discordrpc/wiki/Wiki)
 ## Requirements
 NodeJS is required, you can install it [here](https://nodejs.org/en/download/) There isn't a specific version **required or recommended.**!
-## Steps:
+## Steps
 1. Open your command line interface: Command Prompt, PowerShell, Terminal, Shell.
 2. Open your download and unarchive the file. 
 3. Go to your browser, then click Downloads and paste the path in the interface like this: `cd C:\Users\YourName\TheFolder\discordrpc-main` 
