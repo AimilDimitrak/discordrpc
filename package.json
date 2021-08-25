@@ -1,7 +1,7 @@
 {
-  "name": "discord-rpc",
+  "name": "DiscordRPC",
   "version": "1.0.0",
-  "description": "Discord RPC",
+  "description": "Get a Discord Presence with buttons and more.",
   "main": "index.js",
   "dependencies": {
     "discord-rpc": "git+https://github.com/djs/discord-rpc.git"
@@ -10,6 +10,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "xZyn",
+  "author": "AimilDimitrak",
   "license": "ISC"
 }
