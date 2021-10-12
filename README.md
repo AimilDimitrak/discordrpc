@@ -1,6 +1,6 @@
 # discordrpc - Get Custom Discord Presence with buttons!
 ## Note
-You can also check the wiki page with the same steps [here](https://github.com/AimilDimitrak/discordrpc/wiki/Wiki)
+You can also check the wiki page with the same steps [here](https://github.com/AimilDimitrak/discordrpc/wiki/Discord-Rich-Presence-Wiki)
 ## Requirements
 NodeJS is required, you can install it [here](https://nodejs.org/en/download/) There isn't a specific version **required or recommended.**!
 ## Steps
