@@ -2,7 +2,8 @@
 ## Note
 You can also check the wiki page with the same steps [here](https://github.com/AimilDimitrak/discordrpc/wiki/Discord-Rich-Presence-Wiki)
 ## Requirements
-NodeJS is required, you can install it [here](https://nodejs.org/en/download/) There isn't a specific version **required or recommended.**!
+1. [NodeJS](https://nodejs.org/en/download/)
+2. [Discord Developers Portal Application](https://discord.com/developers/applications)
 ## Steps
 1. Open your command line interface: Command Prompt, PowerShell, Terminal, Shell.
 2. Open your download and unarchive the file. 
